@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RelativeLayout</string>
+    <string name="to">To</string>
+    <string name="to_hint">To Hint</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+</resources>
